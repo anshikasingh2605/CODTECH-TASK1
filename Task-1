@@ -1,0 +1,27 @@
+def operation(operator):
+    match operator:
+        case 1:
+            return a+b
+        case 2:
+            return a-b
+        case 3:
+            return a*b
+        case 4:
+            return a/b
+        case _:
+            return "Default case"
+while True:
+    a=float(input("Enter first number:"))
+    b=float(input("Enter second number:"))
+    print("Enter operation you want to perform like +,-,*,/. ")
+    operator=(input("operator:  "))
+    if operator=="+":
+        print(operation(1))
+    elif operator=="-":
+        print(operation(2))
+    elif operator=="*":
+        print(operation(3))
+    elif operator=="/":
+        print(operation(4))
+    else:
+        print("Enter valid number for operator")
