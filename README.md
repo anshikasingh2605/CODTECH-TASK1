@@ -16,9 +16,9 @@
 -**python**: The primary programming language for ease in code .Easy manipulation of the concepts.
 
 ### Concepts -
--**Function**: used to store a piece of code so that it can be called whenever and wherever needed.
--**While loop**: infinite while loop will run as a condition so that te task will continuously run without any interuption.
--**Match**: match is used as switch function which is based on cases , if the condition of cases will fulfill then the code enside that case will executes otherwise default case will executes. 
+- **Function**: used to store a piece of code so that it can be called whenever and wherever needed.
+- **While loop**: infinite while loop will run as a condition so that te task will continuously run without any interuption.
+- **Match**: match is used as switch function which is based on cases , if the condition of cases will fulfill then the code enside that case will executes otherwise default case will executes. 
 
 
 
